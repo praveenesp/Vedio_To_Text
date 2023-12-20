@@ -264,8 +264,8 @@ hr {
 
 
 .masthead {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-top: calc(6rem + 74px);
+  padding-bottom: 6rem;
 }
 .masthead .masthead-heading {
   font-size: 2.75rem;
